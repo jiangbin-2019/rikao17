@@ -3,5 +3,6 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/rikao-config" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rikao-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rikao-zuul" charset="UTF-8" />
   </component>
 </project>

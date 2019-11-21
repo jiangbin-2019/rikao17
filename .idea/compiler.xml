@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="rikao17" />
         <module name="rikao-config" />
+        <module name="rikao-zuul" />
         <module name="rikao-eureka" />
       </profile>
     </annotationProcessing>
@@ -16,6 +17,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="rikao-config" options="-parameters" />
       <module name="rikao-eureka" options="-parameters" />
+      <module name="rikao-zuul" options="-parameters" />
     </option>
   </component>
 </project>
